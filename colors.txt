@@ -1,0 +1,5 @@
+yellow #fec433
+blue #426eff 
+green #35f32e
+crimson red #da1024
+grey rgba(255, 255, 255, 0.1)
