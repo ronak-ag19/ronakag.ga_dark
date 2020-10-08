@@ -8148,7 +8148,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #35f32e; }
+  color: #41db3ce0; }
   a:hover, a:focus {
     text-decoration: none;
     color: #ff0080;
@@ -8157,7 +8157,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: #35f32e;
+  color: #41db3ce0;
   font-weight: 400; }
 
 .text-primary {
@@ -8401,7 +8401,7 @@ h1, h2, h3, h4, h5,
     content: '';
     opacity: .2;
     width: 50%;
-    background: #000000; }
+    background: #0000005e; }
   .hero-wrap .text {
     width: 100%; }
 
@@ -8422,7 +8422,7 @@ h1, h2, h3, h4, h5,
 .slider-text h2 {
   font-weight: 800; }
   .slider-text h2 span {
-    color: #da1024;
+    color: #b42836;
      }
 
 .slider-text p {
@@ -8683,7 +8683,7 @@ h1, h2, h3, h4, h5,
     font-weight: 800;
     font-size: 30px;
     margin-bottom: 40px;
-    color: #da1024;
+    color: #b42836;
   text-align: left;
   padding-bottom: 0.5px; 
   border-bottom-style: solid; 
@@ -8699,7 +8699,7 @@ h1, h2, h3, h4, h5,
   .resume-wrap .icon {
     width: 50px;
     height: 50px;
-    background: #da1024;
+    background: #b42836;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -8801,7 +8801,7 @@ h1, h2, h3, h4, h5,
   overflow: visible; }
 
 .progress-bar {
-  background: #da1024;
+  background: #b42836;
   -webkit-box-shadow: none;
   box-shadow: none;
   font-size: 12px;
@@ -9250,7 +9250,7 @@ textarea.form-control {
 .ftco-counter .text strong.number {
   font-weight: 700;
   font-size: 30px;
-  color: #da1024;
+  color: #b42836;
   display: block; }
 
 .ftco-counter .text span {
@@ -9267,7 +9267,7 @@ textarea.form-control {
   display: block;
   font-size: 72px;
   font-weight: bold;
-  color: #da1024; }
+  color: #b42836; }
 
 .ftco-counter .ftco-label {
   font-size: 12px;
@@ -9375,7 +9375,7 @@ textarea.form-control {
   .contact-section .box .icon {
     width: 70px;
     height: 70px;
-    background: #da1024;
+    background: #b42836;
     margin: 0 auto;
     margin-bottom: 10px;
     -webkit-border-radius: 50%;
