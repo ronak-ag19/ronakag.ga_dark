@@ -8136,7 +8136,7 @@ body {
   background: #191835;
   font-size: 16px;
   line-height: 1.8;
-  font-weight: 400;
+  font-weight: 200;
   color: #ffffff; }
   body.menu-show {
     overflow: hidden;
@@ -8148,7 +8148,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #00b365d5; }
+  color: #64ffda; }
   a:hover, a:focus {
     text-decoration: none;
     color: #f7ce74;
@@ -8157,7 +8157,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: #00b365d5;
+  color: #64ffda;
   font-weight: 400; }
 
 .text-primary {
