@@ -7,9 +7,11 @@ pink #b42836
 
 New colors
 dar blue = #191835
-green = #00B365d5
+green = #64ffda
 red = #ff6464 and for button icons #ff6464c9
 yellow =  #ff9e00 changed to #f7ce74
 sky blue = #82d2de
+white = #e6f1ff
+
 
 block-18 is the couter table color #2d2e4983
