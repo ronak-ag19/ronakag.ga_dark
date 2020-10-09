@@ -7,7 +7,7 @@ pink #b42836
 
 New colors
 dar blue = #191835
-green = #OOB365
+green = #00B365d5
 red = #ff6464 and for button icons #ff6464c9
 yellow =  #ff9e00 changed to #f7ce74
 sky blue = #82d2de
