@@ -1,6 +1,15 @@
 yellow #fec433
-blue #426eff 
+blue #426eff and #3e64ff
 green #35f32e    #41db3ce0
 crimson red #da1024
 grey rgba(255, 255, 255, 0.1)
 pink #b42836
+
+New colors
+dar blue = #191835
+green = #OOB365
+red = #ff6464 and for button icons #ff6464c9
+yellow =  #ff9e00 changed to #f7ce74
+sky blue = #82d2de
+
+block-18 is the couter table color #2d2e4983
