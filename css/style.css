@@ -8683,7 +8683,7 @@ h1, h2, h3, h4, h5,
     font-weight: 800;
     font-size: 30px;
     margin-bottom: 40px;
-    color: #ff6464c9;
+    color: #ff646491;
   text-align: left;
   padding-bottom: 0.5px; 
   border-bottom-style: solid; 
@@ -8699,7 +8699,7 @@ h1, h2, h3, h4, h5,
   .resume-wrap .icon {
     width: 50px;
     height: 50px;
-    background: #ff6464c9;
+    background: #ff646491;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -9375,7 +9375,7 @@ textarea.form-control {
   .contact-section .box .icon {
     width: 70px;
     height: 70px;
-    background: #ff6464c9;
+    background: #ff646491;
     margin: 0 auto;
     margin-bottom: 10px;
     -webkit-border-radius: 50%;
