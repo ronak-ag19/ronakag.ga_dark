@@ -64,7 +64,7 @@ hr {
   overflow: visible; }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-top: 0;
+  margin-top: 20;
   margin-bottom: 0.5rem; }
 
 p {
@@ -9242,7 +9242,7 @@ textarea.form-control {
 .ftco-counter .block-18 {
   background-color: #14243a;
   box-shadow:  1rem -1rem 1rem #0a192f;
-  display: block;
+ display: block;
   width: 100%;
   text-align: center;
   padding: 20px 20px; }
@@ -9666,5 +9666,73 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
 
 
+    /*======================================
+//--//-->   BLOG
+======================================*/
+.card {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #14243a;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
 
+.card-blog .card-body {
+  position: relative;
+}
 
+.card-blog .card-category-box {
+  position: absolute;
+  text-align: center;
+  top: -16px;
+  left: 15px;
+  right: 15px;
+  line-height: 25px;
+  overflow: hidden;
+}
+
+.card-blog .card-category {
+  display: inline-block;
+  color: #fff;
+  padding: 0 15px 5px;
+  overflow: hidden;
+  background-color: #0078ff;
+  border-radius: 4px;
+}
+
+.card-blog .card-category .category {
+  color: #fff;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: .7rem;
+  letter-spacing: .1px;
+  margin-bottom: 0;
+}
+
+.card-blog .card-title {
+  font-size: 1.3rem;
+  margin-top: .6rem;
+}
+
+.card-blog .card-description {
+  color: #4e4e4e;
+}
+
+.card-blog .post-author {
+  display: inline-block;
+}
+
+.card-blog .post-date {
+  color: #82d2de;
+  display: inline-block;
+  float: right;
+}
